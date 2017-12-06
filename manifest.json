@@ -1,0 +1,13 @@
+{
+    "name": "nmap.emanuelesorce",
+    "description": "NMAP packaged for Ubuntu Touch",
+    "title": "NMAP",
+    "hooks": {
+        "ubports": {
+            "apparmor": "aa.apparmor"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "Emanuele Sorce <emanuele.sorce@hotmail.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
